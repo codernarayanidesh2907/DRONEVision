@@ -144,7 +144,7 @@ python src/dashboard.py
 <img width="1908" height="972" alt="image" src="https://github.com/user-attachments/assets/502e7c2d-29a2-41a8-a498-4b55d67f52f7" />
 
 ## Author
-## Narayani Deshpande
+ Narayani Deshpande
 
 
 
